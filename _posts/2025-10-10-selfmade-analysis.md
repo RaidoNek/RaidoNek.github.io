@@ -183,6 +183,10 @@ Pouze u hesla se provede HexString na bajty a pak šifrování s tím statickým
 
 ![](/assets/img/Pasted%20image%2020260926180454.png)
 
+#### Úklid
+
+Program se v posledních funkcích vlastně jen zbaví loaded libraries a sám se vymaže po pár sekundách, aby se stihl ukončit program.
+
 #### SendCredentialsToC2 (sub_4042B0)
 Seznam argumentů "a=?" a co znamenají
 
