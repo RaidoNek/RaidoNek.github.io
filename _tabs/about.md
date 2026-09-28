@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+My name is Tomas Bajt and Natalka is my princess. I like malware analysis, but im not gonna name myself 0x7Tomas like everyone on discord
